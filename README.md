@@ -3,7 +3,6 @@ This repository contains a Spring Boot application with REST endpoints for user 
 <br><br>
 Registration Endpoint:<br>
 Endpoint: POST http://localhost:8080/api/auth/register  
-<br>
 Description: Allows users to register by providing their fullname, username and password.
 <br><br>
 Login Endpoint:<br>
